@@ -31,7 +31,7 @@ PlasmaPy: Beginning a Community Python Package for Plasma Physics
    functionality that is needed to foster the creation of a fully open
    source Python ecosystem for laboratory, heliospheric, and
    astrophysical plasmas.  After describing the functionality of our
-   first release and plans for future development, we will discuss the
+   first release and plans for future development, we discuss the
    extensive lessons we have learned while starting an open source
    project for a large scientific community.  
 
@@ -44,6 +44,36 @@ Introduction
 
 I didn't like unstable eigenfunctions at first, but then they grew on
 me.
+
+PlasmaPy Organizational Structure
+---------------------------------
+
+PlasmaPy Subpackages
+--------------------
+
+The ``atomic`` subpackage
++++++++++++++++++++++++
+
+The ``physics`` subpackage
+++++++++++++++++++++++++
+
+The ``physics.transport`` subpackage
+++++++++++++++++++++++++++++++++++
+
+The ``mathematics`` subpackage
+++++++++++++++++++++++++++++
+
+Code Development Roadmap
+------------------------
+
+The ``Plasma`` metaclass
+++++++++++++++++++++++
+
+The ``SpectroscoPyx`` affiliated package
+++++++++++++++++++++++++++++++++++++++++
+
+Lessons Learned
+---------------
 
 References
 ----------
